@@ -8,6 +8,7 @@ authors:
 version: "2026-10-30"
 date-released: "2026-11-21"
 license: CC-BY-4.0
+doi: "10.5281/zenodo.24424603"
 url: "https://formationlane.com/data/"
 repository: "https://github.com/formationlane/us-llc-fees-2026-2027"
 abstract: "State LLC formation fees, annual or biennial report fees, due dates, late penalties and franchise or privilege tax notes for all 50 US states and DC, with official state source links. Last checked 30 October 2026."

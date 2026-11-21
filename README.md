@@ -7,6 +7,7 @@ State fees to form a domestic LLC, plus the recurring state report (annual or bi
 - **Rows:** 51 (50 states + DC)
 - **Scope:** domestic LLC, calendar tax year. A blank cell means our data does not have that value; nothing is guessed.
 - **Canonical page:** https://formationlane.com/data/ (human table: https://formationlane.com/guides/llc-fees-by-state/)
+- **DOI:** [10.5281/zenodo.24424603](https://doi.org/10.5281/zenodo.24424603) (Zenodo)
 - **License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Free to reuse, including commercially, with credit and a link.
 
 ## Files
@@ -37,11 +38,13 @@ Values are text as published by the state (for example `$60 online or paper ($25
 ## Cite this dataset
 > Source: Formation Lane (https://formationlane.com/data/)
 
-Formation Lane, "LLC Fees and Deadlines by State (2026–2027)," https://formationlane.com/data/ (last verified 30 October 2026).
+Formation Lane, "LLC Fees and Deadlines by State (2026–2027)," https://formationlane.com/data/ (last verified 30 October 2026). https://doi.org/10.5281/zenodo.24424603
 
 See `CITATION.cff` for machine-readable citation metadata.
 
 ## Also available as
+- Zenodo (permanent DOI): https://doi.org/10.5281/zenodo.24424603
+- Hugging Face: https://huggingface.co/datasets/formationlane/us-llc-fees-2026-2027
 - Live MCP server for AI assistants: https://formationlane.com/mcp (docs: https://formationlane.com/for-agents/mcp/, code: https://github.com/formationlane/llc-fees-mcp)
 
 ## Corrections
