@@ -1,0 +1,842 @@
+{
+  "name": "LLC Fees and Deadlines by State (2026–2027)",
+  "publisher": "Formation Lane",
+  "url": "https://formationlane.com/data/",
+  "table": "https://formationlane.com/guides/llc-fees-by-state/",
+  "last_verified": "2026-10-30",
+  "citation": "Formation Lane, “LLC Fees and Deadlines by State (2026–2027),” https://formationlane.com/data/ (last verified 30 October 2026).",
+  "scope": "Domestic LLC, calendar tax year. All 50 states plus DC. Blank means our data does not have the value.",
+  "count": 51,
+  "states": [
+    {
+      "state": "Alabama",
+      "code": "AL",
+      "formation_filing_fee": "$200 + name reservation ($25 paper / $28 online)",
+      "recurring_report": "No SOS annual report",
+      "report_fee": "—",
+      "due_date_or_rule": "No recurring SOS report",
+      "franchise_or_privilege_tax": "Business Privilege Tax — separate ADOR return (often due April 15)",
+      "late_penalty": "None (no report)",
+      "processing_time": "",
+      "notes": "Alabama Business Privilege Tax is a separate Department of Revenue filing (often due April 15; minimum tax often $0 after 2024 changes, but a return may still be required).",
+      "last_verified": "2026-10-30",
+      "official_sources": [
+        "https://www.revenue.alabama.gov/notice-important-changes-to-the-2024-business-privilege-tax-filing-requirements/"
+      ]
+    },
+    {
+      "state": "Alaska",
+      "code": "AK",
+      "formation_filing_fee": "$250",
+      "recurring_report": "Biennial report",
+      "report_fee": "$100 ($137.50 late)",
+      "due_date_or_rule": "January 2, every 2 years (same odd/even year as formation)",
+      "franchise_or_privilege_tax": "",
+      "late_penalty": "$37.50",
+      "processing_time": "",
+      "notes": "Formed in an even year → reports in even years; odd → odd years. Filing opens October 2; late fee applies on or after February 2.",
+      "last_verified": "2026-10-30",
+      "official_sources": [
+        "https://www.commerce.alaska.gov/web/cbpl/Corporations/BiennialReportsFAQs"
+      ]
+    },
+    {
+      "state": "Arizona",
+      "code": "AZ",
+      "formation_filing_fee": "$50 ($85 expedited)",
+      "recurring_report": "No ACC annual report",
+      "report_fee": "—",
+      "due_date_or_rule": "No recurring SOS report",
+      "franchise_or_privilege_tax": "",
+      "late_penalty": "None (no report)",
+      "processing_time": "",
+      "notes": "Keep your statutory agent current with the Arizona Corporation Commission.",
+      "last_verified": "2026-10-30",
+      "official_sources": [
+        "https://azcc.gov/corporations"
+      ]
+    },
+    {
+      "state": "Arkansas",
+      "code": "AR",
+      "formation_filing_fee": "$45 online / $50 paper",
+      "recurring_report": "Annual Franchise Tax Report",
+      "report_fee": "$150 (+$5 online)",
+      "due_date_or_rule": "May 1 each year",
+      "franchise_or_privilege_tax": "Annual Franchise Tax Report $150 (the report itself)",
+      "late_penalty": "$25 + interest",
+      "processing_time": "",
+      "notes": "",
+      "last_verified": "2026-10-30",
+      "official_sources": [
+        "https://www.sos.arkansas.gov/business-commercial-services-bcs/franchise-tax-report-forms"
+      ]
+    },
+    {
+      "state": "California",
+      "code": "CA",
+      "formation_filing_fee": "$70",
+      "recurring_report": "Statement of Information (biennial)",
+      "report_fee": "$20",
+      "due_date_or_rule": "Every 2 years, by last day of anniversary month",
+      "franchise_or_privilege_tax": "$800 annual LLC tax (FTB Form 3522), due April 15; LLC fee if CA gross receipts $250,000+",
+      "late_penalty": "$250 (Statement of Information)",
+      "processing_time": "5 days or less online; 10+ days for paper forms",
+      "notes": "",
+      "last_verified": "2026-10-30",
+      "official_sources": [
+        "https://www.sos.ca.gov/business-programs/business-entities/faqs",
+        "https://www.ftb.ca.gov/file/business/types/limited-liability-company/index.html"
+      ]
+    },
+    {
+      "state": "Colorado",
+      "code": "CO",
+      "formation_filing_fee": "$50",
+      "recurring_report": "Periodic Report",
+      "report_fee": "$25 ($50 late)",
+      "due_date_or_rule": "Every year, by last day of anniversary month",
+      "franchise_or_privilege_tax": "",
+      "late_penalty": "$50",
+      "processing_time": "",
+      "notes": "Colorado lets you file up to two months before or after the report month without penalty — check your entity summary.",
+      "last_verified": "2026-10-30",
+      "official_sources": [
+        "https://coloradosos.gov/pubs/info_center/fees/business.html"
+      ]
+    },
+    {
+      "state": "Connecticut",
+      "code": "CT",
+      "formation_filing_fee": "$120",
+      "recurring_report": "Annual report",
+      "report_fee": "$80",
+      "due_date_or_rule": "March 31 each year",
+      "franchise_or_privilege_tax": "",
+      "late_penalty": "None listed",
+      "processing_time": "Most online filings are accepted automatically; a $50 expedite is offered when available",
+      "notes": "",
+      "last_verified": "2026-10-30",
+      "official_sources": [
+        "https://business.ct.gov/knowledge-base/articles/domestic-limited-liability-companies-forms-and-fees"
+      ]
+    },
+    {
+      "state": "Delaware",
+      "code": "DE",
+      "formation_filing_fee": "$110",
+      "recurring_report": "None (no annual report)",
+      "report_fee": "—",
+      "due_date_or_rule": "No report (tax due June 1)",
+      "franchise_or_privilege_tax": "$400 annual LLC tax, due June 1",
+      "late_penalty": "$200 + 1.5%/month",
+      "processing_time": "",
+      "notes": "Delaware raised the LLC tax from $300 to $400; no annual report is filed.",
+      "last_verified": "2026-10-30",
+      "official_sources": [
+        "https://corp.delaware.gov/alt-entitytaxinstructions/"
+      ]
+    },
+    {
+      "state": "District of Columbia",
+      "code": "DC",
+      "formation_filing_fee": "$99 (DLCP certificate of organization)",
+      "recurring_report": "Biennial report (BRA-25)",
+      "report_fee": "$300 ($100 late)",
+      "due_date_or_rule": "April 1, every 2 years",
+      "franchise_or_privilege_tax": "",
+      "late_penalty": "$100",
+      "processing_time": "",
+      "notes": "",
+      "last_verified": "2026-10-30",
+      "official_sources": [
+        "https://dlcp.dc.gov/page/corporations-division-business-registration-faqs",
+        "https://dlcp.dc.gov/page/corporations-division-fees-limited-liability-company"
+      ]
+    },
+    {
+      "state": "Florida",
+      "code": "FL",
+      "formation_filing_fee": "$125",
+      "recurring_report": "Annual report (Sunbiz)",
+      "report_fee": "$138.75 ($538.75 after May 1)",
+      "due_date_or_rule": "May 1 each year",
+      "franchise_or_privilege_tax": "",
+      "late_penalty": "$400",
+      "processing_time": "Online filings generally filed or returned within 2 to 3 days of payment",
+      "notes": "",
+      "last_verified": "2026-10-30",
+      "official_sources": [
+        "https://dos.fl.gov/sunbiz/forms/fees/llc-fees",
+        "https://dos.fl.gov/sunbiz/manage-business/efile/annual-report/"
+      ]
+    },
+    {
+      "state": "Georgia",
+      "code": "GA",
+      "formation_filing_fee": "$110 ($100 statutory fee + $10 service charge)",
+      "recurring_report": "Annual registration",
+      "report_fee": "$60 online or paper ($25 late)",
+      "due_date_or_rule": "April 1 each year",
+      "franchise_or_privilege_tax": "",
+      "late_penalty": "$25",
+      "processing_time": "Online filings generally processed within 7 to 10 business days; paid expedite available",
+      "notes": "$60 = $50 statutory fee + $10 service charge (re-checked on sos.ga.gov 13 Oct 2026).",
+      "last_verified": "2026-10-30",
+      "official_sources": [
+        "https://sos.ga.gov/how-to-guide/how-file-annual-registration",
+        "https://georgia.gov/renew-llc",
+        "https://law.justia.com/codes/georgia/title-14/chapter-11/article-11/section-14-11-1103/"
+      ]
+    },
+    {
+      "state": "Hawaii",
+      "code": "HI",
+      "formation_filing_fee": "$50",
+      "recurring_report": "Annual report",
+      "report_fee": "$12.50 online / $15 paper",
+      "due_date_or_rule": "Every year, by end of anniversary calendar quarter",
+      "franchise_or_privilege_tax": "",
+      "late_penalty": "$10 per year late",
+      "processing_time": "",
+      "notes": "Due by the end of the calendar quarter containing your registration date.",
+      "last_verified": "2026-10-30",
+      "official_sources": [
+        "https://cca.hawaii.gov/breg/registration/dllc/fees/"
+      ]
+    },
+    {
+      "state": "Idaho",
+      "code": "ID",
+      "formation_filing_fee": "$100 online / $120 paper",
+      "recurring_report": "Annual report",
+      "report_fee": "$0",
+      "due_date_or_rule": "Every year, by last day of anniversary month",
+      "franchise_or_privilege_tax": "",
+      "late_penalty": "None listed",
+      "processing_time": "",
+      "notes": "",
+      "last_verified": "2026-10-30",
+      "official_sources": [
+        "https://sos.idaho.gov/business-services-division/"
+      ]
+    },
+    {
+      "state": "Illinois",
+      "code": "IL",
+      "formation_filing_fee": "$150 ($250 with 24-hour service)",
+      "recurring_report": "Annual report (LLC-50.1)",
+      "report_fee": "$75",
+      "due_date_or_rule": "Every year, by last day before anniversary month",
+      "franchise_or_privilege_tax": "",
+      "late_penalty": "$100 (+$100/yr)",
+      "processing_time": "10 business days standard; 24-hour service for $250",
+      "notes": "Due before the first day of your anniversary month.",
+      "last_verified": "2026-10-30",
+      "official_sources": [
+        "https://www.ilsos.gov/departments/business-services/annual-reports/llc-instructions.html",
+        "https://www.ilga.gov/documents/legislation/ilcs/documents/080501800K50-1.htm"
+      ]
+    },
+    {
+      "state": "Indiana",
+      "code": "IN",
+      "formation_filing_fee": "$95 online / $100 paper",
+      "recurring_report": "Business Entity Report (biennial)",
+      "report_fee": "$31 online / $50 paper",
+      "due_date_or_rule": "Every 2 years, by last day of anniversary month",
+      "franchise_or_privilege_tax": "",
+      "late_penalty": "None listed",
+      "processing_time": "",
+      "notes": "",
+      "last_verified": "2026-10-30",
+      "official_sources": [
+        "https://inbiz.in.gov/business-filings/business-entityreport"
+      ]
+    },
+    {
+      "state": "Iowa",
+      "code": "IA",
+      "formation_filing_fee": "$50",
+      "recurring_report": "Biennial report",
+      "report_fee": "$30 online / $45 paper",
+      "due_date_or_rule": "April 1, every 2 years of odd-numbered years",
+      "franchise_or_privilege_tax": "",
+      "late_penalty": "None listed",
+      "processing_time": "",
+      "notes": "Due January 1–April 1 of odd-numbered years.",
+      "last_verified": "2026-10-30",
+      "official_sources": [
+        "https://sos.iowa.gov/businesses/business-entity-forms-and-fees"
+      ]
+    },
+    {
+      "state": "Kansas",
+      "code": "KS",
+      "formation_filing_fee": "$85 online / $90 paper",
+      "recurring_report": "Information report (biennial)",
+      "report_fee": "$90 online / $110 paper",
+      "due_date_or_rule": "April 15, every 2 years (same odd/even year as formation)",
+      "franchise_or_privilege_tax": "",
+      "late_penalty": "$10",
+      "processing_time": "",
+      "notes": "Formed in an even year → reports in even years; odd → odd years. Three-month delinquency period, then forfeiture.",
+      "last_verified": "2026-10-30",
+      "official_sources": [
+        "https://sos.ks.gov/businesses/information-reports.html",
+        "https://www.sos.ks.gov/forms/business_services/ILC.pdf"
+      ]
+    },
+    {
+      "state": "Kentucky",
+      "code": "KY",
+      "formation_filing_fee": "$40",
+      "recurring_report": "Annual report",
+      "report_fee": "$15",
+      "due_date_or_rule": "June 30 each year",
+      "franchise_or_privilege_tax": "",
+      "late_penalty": "None listed",
+      "processing_time": "",
+      "notes": "",
+      "last_verified": "2026-10-30",
+      "official_sources": [
+        "https://www.sos.ky.gov/bus/business-filings/Pages/Fees.aspx"
+      ]
+    },
+    {
+      "state": "Louisiana",
+      "code": "LA",
+      "formation_filing_fee": "$125",
+      "recurring_report": "Annual report",
+      "report_fee": "$35",
+      "due_date_or_rule": "Every year, by formation anniversary date",
+      "franchise_or_privilege_tax": "",
+      "late_penalty": "None listed",
+      "processing_time": "No standard time published; $35 for 24-hour expedite or $60 priority",
+      "notes": "",
+      "last_verified": "2026-10-30",
+      "official_sources": [
+        "https://www.sos.la.gov/business-services/forms-fee-schedule"
+      ]
+    },
+    {
+      "state": "Maine",
+      "code": "ME",
+      "formation_filing_fee": "$175",
+      "recurring_report": "Annual report",
+      "report_fee": "$85 ($50 late)",
+      "due_date_or_rule": "June 1 each year",
+      "franchise_or_privilege_tax": "",
+      "late_penalty": "$50",
+      "processing_time": "",
+      "notes": "",
+      "last_verified": "2026-10-30",
+      "official_sources": [
+        "https://apps.web.maine.gov/sos/corporations-commissions/i-need-a-business-form/limited-liability-company-forms"
+      ]
+    },
+    {
+      "state": "Maryland",
+      "code": "MD",
+      "formation_filing_fee": "$100",
+      "recurring_report": "Form 1 Annual Report",
+      "report_fee": "$300",
+      "due_date_or_rule": "April 15 each year",
+      "franchise_or_privilege_tax": "",
+      "late_penalty": "Percentage of assessment",
+      "processing_time": "",
+      "notes": "",
+      "last_verified": "2026-10-30",
+      "official_sources": [
+        "https://dat.maryland.gov/SDAT%20Forms/PPR_Forms/2026_Form1.pdf"
+      ]
+    },
+    {
+      "state": "Massachusetts",
+      "code": "MA",
+      "formation_filing_fee": "$500 (+$20 online surcharge)",
+      "recurring_report": "Annual report",
+      "report_fee": "$500",
+      "due_date_or_rule": "Every year, by formation anniversary date",
+      "franchise_or_privilege_tax": "",
+      "late_penalty": "None listed",
+      "processing_time": "No standard time published; online filing adds $20",
+      "notes": "",
+      "last_verified": "2026-10-30",
+      "official_sources": [
+        "https://www.mass.gov/info-details/starting-a-limited-liability-company-llc-in-massachusetts"
+      ]
+    },
+    {
+      "state": "Michigan",
+      "code": "MI",
+      "formation_filing_fee": "$50",
+      "recurring_report": "Annual Statement",
+      "report_fee": "$25",
+      "due_date_or_rule": "February 15 each year",
+      "franchise_or_privilege_tax": "",
+      "late_penalty": "None listed",
+      "processing_time": "",
+      "notes": "If formed after September 30, the first statement is the second February 15.",
+      "last_verified": "2026-10-30",
+      "official_sources": [
+        "https://www.michigan.gov/lara/bureau-list/cscl/corps/frequently-asked-questions"
+      ]
+    },
+    {
+      "state": "Minnesota",
+      "code": "MN",
+      "formation_filing_fee": "$155 online / $135 mail",
+      "recurring_report": "Annual renewal",
+      "report_fee": "$0",
+      "due_date_or_rule": "December 31 each year",
+      "franchise_or_privilege_tax": "",
+      "late_penalty": "None listed",
+      "processing_time": "",
+      "notes": "",
+      "last_verified": "2026-10-30",
+      "official_sources": [
+        "https://www.sos.mn.gov/business-liens/start-a-business/business-filing-certification-fee-schedule/"
+      ]
+    },
+    {
+      "state": "Mississippi",
+      "code": "MS",
+      "formation_filing_fee": "$50",
+      "recurring_report": "Annual report",
+      "report_fee": "$0",
+      "due_date_or_rule": "April 15 each year",
+      "franchise_or_privilege_tax": "",
+      "late_penalty": "None listed",
+      "processing_time": "Some online filings are approved immediately; others are reviewed within 24 hours",
+      "notes": "",
+      "last_verified": "2026-10-30",
+      "official_sources": [
+        "https://www.sos.ms.gov/business-services"
+      ]
+    },
+    {
+      "state": "Missouri",
+      "code": "MO",
+      "formation_filing_fee": "$50 online / $105 paper",
+      "recurring_report": "No SOS annual report",
+      "report_fee": "—",
+      "due_date_or_rule": "No recurring SOS report",
+      "franchise_or_privilege_tax": "",
+      "late_penalty": "None (no report)",
+      "processing_time": "",
+      "notes": "Keep your registered agent current.",
+      "last_verified": "2026-10-30",
+      "official_sources": [
+        "https://www.sos.mo.gov/CMSImages/Business/fees.pdf"
+      ]
+    },
+    {
+      "state": "Montana",
+      "code": "MT",
+      "formation_filing_fee": "$35",
+      "recurring_report": "Annual report",
+      "report_fee": "$0 Jan 1–Apr 15; $35 after",
+      "due_date_or_rule": "December 1 each year",
+      "franchise_or_privilege_tax": "",
+      "late_penalty": "$35 after April 15",
+      "processing_time": "",
+      "notes": "Final deadline for domestic LLCs is December 1. The SOS waives the fee for reports filed January 1–April 15; after April 15 the fee is $35.",
+      "last_verified": "2026-10-30",
+      "official_sources": [
+        "https://help.sosmt.gov/en-us/article/how-do-i-file-my-annual-report-ywawrv/"
+      ]
+    },
+    {
+      "state": "Nebraska",
+      "code": "NE",
+      "formation_filing_fee": "$100 online / $110 in office + publication",
+      "recurring_report": "Biennial report",
+      "report_fee": "$25 online / $30 paper",
+      "due_date_or_rule": "April 1, every 2 years of odd-numbered years",
+      "franchise_or_privilege_tax": "",
+      "late_penalty": "None listed",
+      "processing_time": "eDelivery says review is taking about a week",
+      "notes": "Due January 1–April 1 of odd-numbered years, starting the first odd year after formation; delinquent June 16.",
+      "last_verified": "2026-10-30",
+      "official_sources": [
+        "https://sos.nebraska.gov/business-services/annualbiennial-reporting",
+        "https://nebraskalegislature.gov/laws/statutes.php?statute=21-125"
+      ]
+    },
+    {
+      "state": "Nevada",
+      "code": "NV",
+      "formation_filing_fee": "$425 ($75 Articles + $150 Initial List + $200 Business License)",
+      "recurring_report": "Annual list + state business license",
+      "report_fee": "$350 ($150 + $200)",
+      "due_date_or_rule": "Every year, by last day of anniversary month",
+      "franchise_or_privilege_tax": "",
+      "late_penalty": "$75 + $100",
+      "processing_time": "",
+      "notes": "Your initial list and business license are normally filed with formation.",
+      "last_verified": "2026-10-30",
+      "official_sources": [
+        "https://www.nvsos.gov/sos/home/showpublisheddocument/6550/638344294468270000"
+      ]
+    },
+    {
+      "state": "New Hampshire",
+      "code": "NH",
+      "formation_filing_fee": "$100 paper / $102 online",
+      "recurring_report": "Annual report",
+      "report_fee": "$102 online / $100 paper",
+      "due_date_or_rule": "April 1 each year",
+      "franchise_or_privilege_tax": "",
+      "late_penalty": "$50",
+      "processing_time": "",
+      "notes": "",
+      "last_verified": "2026-10-30",
+      "official_sources": [
+        "https://www.sos.nh.gov/corporation-division"
+      ]
+    },
+    {
+      "state": "New Jersey",
+      "code": "NJ",
+      "formation_filing_fee": "$100",
+      "recurring_report": "Annual report",
+      "report_fee": "$75",
+      "due_date_or_rule": "Every year, by last day of anniversary month",
+      "franchise_or_privilege_tax": "",
+      "late_penalty": "None listed",
+      "processing_time": "",
+      "notes": "",
+      "last_verified": "2026-10-30",
+      "official_sources": [
+        "https://business.nj.gov/"
+      ]
+    },
+    {
+      "state": "New Mexico",
+      "code": "NM",
+      "formation_filing_fee": "$50",
+      "recurring_report": "No SOS annual report",
+      "report_fee": "—",
+      "due_date_or_rule": "No recurring SOS report",
+      "franchise_or_privilege_tax": "",
+      "late_penalty": "None (no report)",
+      "processing_time": "",
+      "notes": "",
+      "last_verified": "2026-10-30",
+      "official_sources": [
+        "https://law.justia.com/codes/new-mexico/chapter-53/article-19/section-53-19-63/"
+      ]
+    },
+    {
+      "state": "New York",
+      "code": "NY",
+      "formation_filing_fee": "$200 + publication ($50 Certificate of Publication)",
+      "recurring_report": "Biennial statement",
+      "report_fee": "$9",
+      "due_date_or_rule": "Every 2 years, by last day of anniversary month",
+      "franchise_or_privilege_tax": "Tax Department filing fee (IT-204-LL) for some LLCs",
+      "late_penalty": "None listed",
+      "processing_time": "Email acknowledgement with the filing receipt within minutes of an online filing",
+      "notes": "New York also has a Tax Department filing fee (IT-204-LL) for some LLCs.",
+      "last_verified": "2026-10-30",
+      "official_sources": [
+        "https://dos.ny.gov/forming-limited-liability-company-new-york",
+        "https://www.tax.ny.gov/pit/efile/annual_filing_fee.htm"
+      ]
+    },
+    {
+      "state": "North Carolina",
+      "code": "NC",
+      "formation_filing_fee": "$125",
+      "recurring_report": "Annual report",
+      "report_fee": "$200 ($203 online)",
+      "due_date_or_rule": "April 15 each year",
+      "franchise_or_privilege_tax": "",
+      "late_penalty": "None listed",
+      "processing_time": "",
+      "notes": "",
+      "last_verified": "2026-10-30",
+      "official_sources": [
+        "https://www.sosnc.gov/divisions/business_registration/annual_report_due_dates"
+      ]
+    },
+    {
+      "state": "North Dakota",
+      "code": "ND",
+      "formation_filing_fee": "$135",
+      "recurring_report": "Annual report",
+      "report_fee": "$50",
+      "due_date_or_rule": "November 15 each year",
+      "franchise_or_privilege_tax": "",
+      "late_penalty": "$50",
+      "processing_time": "",
+      "notes": "",
+      "last_verified": "2026-10-30",
+      "official_sources": [
+        "https://www.sos.nd.gov/business/business-services/business-structures/limited-liability-company-llc"
+      ]
+    },
+    {
+      "state": "Ohio",
+      "code": "OH",
+      "formation_filing_fee": "$99",
+      "recurring_report": "No SOS annual report",
+      "report_fee": "—",
+      "due_date_or_rule": "No recurring SOS report",
+      "franchise_or_privilege_tax": "",
+      "late_penalty": "None (no report)",
+      "processing_time": "",
+      "notes": "Keep your statutory agent current (Form 521 update is $25).",
+      "last_verified": "2026-10-30",
+      "official_sources": [
+        "https://www.ohiosos.gov/business/business-filing-forms",
+        "https://codes.ohio.gov/ohio-revised-code/section-1706.09"
+      ]
+    },
+    {
+      "state": "Oklahoma",
+      "code": "OK",
+      "formation_filing_fee": "$100",
+      "recurring_report": "Annual certificate",
+      "report_fee": "$25",
+      "due_date_or_rule": "Every year, by formation anniversary date",
+      "franchise_or_privilege_tax": "",
+      "late_penalty": "None listed",
+      "processing_time": "",
+      "notes": "",
+      "last_verified": "2026-10-30",
+      "official_sources": [
+        "https://www.sos.ok.gov/business/fees.aspx"
+      ]
+    },
+    {
+      "state": "Oregon",
+      "code": "OR",
+      "formation_filing_fee": "$100",
+      "recurring_report": "Annual report / renewal",
+      "report_fee": "$100",
+      "due_date_or_rule": "Every year, by formation anniversary date",
+      "franchise_or_privilege_tax": "",
+      "late_penalty": "None listed",
+      "processing_time": "",
+      "notes": "",
+      "last_verified": "2026-10-30",
+      "official_sources": [
+        "https://sos.oregon.gov/business/Documents/business-registry-forms/br-fee-schedule.pdf"
+      ]
+    },
+    {
+      "state": "Pennsylvania",
+      "code": "PA",
+      "formation_filing_fee": "$125",
+      "recurring_report": "Annual report",
+      "report_fee": "$7",
+      "due_date_or_rule": "September 30 each year",
+      "franchise_or_privilege_tax": "",
+      "late_penalty": "None listed",
+      "processing_time": "",
+      "notes": "",
+      "last_verified": "2026-10-30",
+      "official_sources": [
+        "https://www.pa.gov/agencies/dos/programs/business/fees-and-payments"
+      ]
+    },
+    {
+      "state": "Rhode Island",
+      "code": "RI",
+      "formation_filing_fee": "$150",
+      "recurring_report": "Annual report",
+      "report_fee": "$50 (+$2.50 online)",
+      "due_date_or_rule": "May 1 each year",
+      "franchise_or_privilege_tax": "",
+      "late_penalty": "$25",
+      "processing_time": "",
+      "notes": "",
+      "last_verified": "2026-10-30",
+      "official_sources": [
+        "https://www.sos.ri.gov/divisions/business-services/ri-business/file-your-annual-report"
+      ]
+    },
+    {
+      "state": "South Carolina",
+      "code": "SC",
+      "formation_filing_fee": "$110",
+      "recurring_report": "No SOS annual report",
+      "report_fee": "—",
+      "due_date_or_rule": "No recurring SOS report",
+      "franchise_or_privilege_tax": "",
+      "late_penalty": "None (no report)",
+      "processing_time": "",
+      "notes": "An annual report applies only if the LLC elects corporate (incl. S-corp) tax treatment — filed with the SC Department of Revenue.",
+      "last_verified": "2026-10-30",
+      "official_sources": [
+        "https://sos.sc.gov/online-filings/business-entities"
+      ]
+    },
+    {
+      "state": "South Dakota",
+      "code": "SD",
+      "formation_filing_fee": "$150 online / $165 paper",
+      "recurring_report": "Annual report",
+      "report_fee": "$55 online / $70 paper",
+      "due_date_or_rule": "Every year, by last day of anniversary month",
+      "franchise_or_privilege_tax": "",
+      "late_penalty": "$55",
+      "processing_time": "",
+      "notes": "From January 1, 2027: file during your anniversary month, or by January 31 each year if the LLC chose that date.",
+      "last_verified": "2026-10-30",
+      "official_sources": [
+        "https://mylrc.sdlegislature.gov/api/Documents/SessionLaw/306278.pdf?Year=2026",
+        "https://sdsos.gov/business-services/corporations/corporate-forms/limited-liability-companies.aspx"
+      ]
+    },
+    {
+      "state": "Tennessee",
+      "code": "TN",
+      "formation_filing_fee": "$50 per member ($300 min / $3,000 max)",
+      "recurring_report": "Annual report",
+      "report_fee": "$300 min ($50/member, max $3,000)",
+      "due_date_or_rule": "April 1 each year",
+      "franchise_or_privilege_tax": "Franchise & excise tax returns for most LLCs (due April 15)",
+      "late_penalty": "None listed",
+      "processing_time": "",
+      "notes": "Tennessee also has franchise & excise tax returns for most LLCs (Department of Revenue, due April 15).",
+      "last_verified": "2026-10-30",
+      "official_sources": [
+        "https://sos.tn.gov/businesses/faqs"
+      ]
+    },
+    {
+      "state": "Texas",
+      "code": "TX",
+      "formation_filing_fee": "$300",
+      "recurring_report": "No SOS annual report — Franchise Tax / Public Information Report",
+      "report_fee": "$0 tax if revenue ≤ $2.65M (PIR still required)",
+      "due_date_or_rule": "May 15 each year",
+      "franchise_or_privilege_tax": "Franchise tax: $0 if revenue ≤ $2.65M; report + PIR still due May 15",
+      "late_penalty": "$50 + 5–10% of tax",
+      "processing_time": "",
+      "notes": "Comptroller franchise tax report + Public Information Report each May 15. No tax due at or below the $2.65M threshold, but you still file.",
+      "last_verified": "2026-10-30",
+      "official_sources": [
+        "https://comptroller.texas.gov/taxes/franchise/",
+        "https://comptroller.texas.gov/taxes/franchise/current-2024.php"
+      ]
+    },
+    {
+      "state": "Utah",
+      "code": "UT",
+      "formation_filing_fee": "$59",
+      "recurring_report": "Annual renewal",
+      "report_fee": "$18",
+      "due_date_or_rule": "Every year, by last day of anniversary month",
+      "franchise_or_privilege_tax": "",
+      "late_penalty": "$10",
+      "processing_time": "",
+      "notes": "Due by the last day of the anniversary month; can be filed up to 60 days early (Utah Code 16-1a-212, effective October 1, 2026).",
+      "last_verified": "2026-10-30",
+      "official_sources": [
+        "https://le.utah.gov/xcode/Title16/Chapter1A/C16-1a-S212_2026050620261001.pdf",
+        "https://commerce.utah.gov/wp-content/uploads/2023/04/currentfees.pdf"
+      ]
+    },
+    {
+      "state": "Vermont",
+      "code": "VT",
+      "formation_filing_fee": "$155",
+      "recurring_report": "Annual report",
+      "report_fee": "$45",
+      "due_date_or_rule": "March 31 each year",
+      "franchise_or_privilege_tax": "",
+      "late_penalty": "None listed",
+      "processing_time": "",
+      "notes": "Due within three months after fiscal year end (March 31 for calendar-year LLCs).",
+      "last_verified": "2026-10-30",
+      "official_sources": [
+        "https://sos.vermont.gov/business-services/business-filings/annualbiennial-reports",
+        "https://legislature.vermont.gov/statutes/section/11/025/04012"
+      ]
+    },
+    {
+      "state": "Virginia",
+      "code": "VA",
+      "formation_filing_fee": "$100",
+      "recurring_report": "Annual registration fee",
+      "report_fee": "$50 ($25 late)",
+      "due_date_or_rule": "Every year, by last day of anniversary month",
+      "franchise_or_privilege_tax": "",
+      "late_penalty": "$25",
+      "processing_time": "",
+      "notes": "",
+      "last_verified": "2026-10-30",
+      "official_sources": [
+        "https://www.scc.virginia.gov/businesses/business-faqs/annual-registration-fees/"
+      ]
+    },
+    {
+      "state": "Washington",
+      "code": "WA",
+      "formation_filing_fee": "$180 (+$20 online processing)",
+      "recurring_report": "Annual report",
+      "report_fee": "$70 ($95 late)",
+      "due_date_or_rule": "Every year, by last day of anniversary month",
+      "franchise_or_privilege_tax": "",
+      "late_penalty": "$25",
+      "processing_time": "",
+      "notes": "Due by the last day of your formation month; can be filed up to 180 days early. $25 delinquency fee after the deadline.",
+      "last_verified": "2026-10-30",
+      "official_sources": [
+        "https://www.sos.wa.gov/corporations-charities/business-entities"
+      ]
+    },
+    {
+      "state": "West Virginia",
+      "code": "WV",
+      "formation_filing_fee": "$100 (+$1 online)",
+      "recurring_report": "Annual report",
+      "report_fee": "$25 ($75 after June 30)",
+      "due_date_or_rule": "June 30 each year",
+      "franchise_or_privilege_tax": "",
+      "late_penalty": "$50",
+      "processing_time": "",
+      "notes": "",
+      "last_verified": "2026-10-30",
+      "official_sources": [
+        "https://sos.wv.gov/business/Pages/AnnualReports.aspx"
+      ]
+    },
+    {
+      "state": "Wisconsin",
+      "code": "WI",
+      "formation_filing_fee": "$130 online / $170 paper",
+      "recurring_report": "Annual report",
+      "report_fee": "$25 online / $40 paper",
+      "due_date_or_rule": "Every year, by end of anniversary calendar quarter",
+      "franchise_or_privilege_tax": "",
+      "late_penalty": "None",
+      "processing_time": "",
+      "notes": "Due by the end of the calendar quarter of your anniversary.",
+      "last_verified": "2026-10-30",
+      "official_sources": [
+        "https://dfi.wi.gov/Pages/BusinessServices/BusinessEntities/Fees.aspx"
+      ]
+    },
+    {
+      "state": "Wyoming",
+      "code": "WY",
+      "formation_filing_fee": "$100",
+      "recurring_report": "Annual report + license tax",
+      "report_fee": "$60 minimum",
+      "due_date_or_rule": "Every year, by first day of anniversary month",
+      "franchise_or_privilege_tax": "License tax ($60 minimum) paid with the annual report",
+      "late_penalty": "None listed",
+      "processing_time": "",
+      "notes": "",
+      "last_verified": "2026-10-30",
+      "official_sources": [
+        "https://sos.wyo.gov/Business/docs/BusinessFees.pdf"
+      ]
+    }
+  ]
+}
